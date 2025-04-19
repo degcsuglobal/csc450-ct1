@@ -13,6 +13,6 @@ int main(){
 
      // Wait For Output Screen
 
-     // Main Function return Statement
+     // Main Function Return Statement
 
 }
